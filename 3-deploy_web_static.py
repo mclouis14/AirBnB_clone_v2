@@ -1,5 +1,9 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 # Fabfile to create and distribute an archive to a web server
+=======
+# Fabfile to create and distribute an archive to a web server.
+>>>>>>> 3806480cf58ef70017f8a48c30480c9364b06b2e
 import os.path
 from datetime import datetime
 from fabric.api import env
